@@ -16,10 +16,10 @@
 
 | Project | Link | Description |
 |---------|------|-------------|
-| 🌐 MyPortfolio | [GitHub Repo](https://github.com/itzsohammane/itzsohammane.git) | Personal Profile Webpage - A simple yet well-structured personal profile webpage built using HTML and CSS. It is designed to showcase fundamental front-end development skills through a clean, responsive, and visually appealing layout. |
-| 📌 Landing Page | [Live Demo](https://itzsohammane.github.io/LandingPage/) | Responsive Landing Page - A modern and responsive landing page built using HTML and CSS. This project demonstrates clean layout design, responsive structure, and user-friendly interface suitable for product or service websites. |
-| 🧮 Calculator | [Live Demo](https://itzsohammane.github.io/Calculator) | Simple Calculator - A lightweight and user-friendly calculator application built using HTML, CSS, and JavaScript. This project demonstrates core front-end development skills by implementing basic arithmetic operations with an intuitive and responsive interface. |
-| 🧮 Advanced Calculator | [Live Demo](https://itzsohammane.github.io/Advanced-Calculator) | Advanced Calculator - A modern, feature-rich calculator built using HTML, CSS, and JavaScript, designed to deliver fast, accurate, and seamless mathematical operations directly in the browser. This project combines clean UI design with powerful functionality. |
+| 🌐 MyPortfolio | [My Portfolio](https://github.com/itzsohammane/MyPortfolio/MyPortfolio.html) | Personal Profile Webpage - A simple yet well-structured personal profile webpage built using HTML and CSS. It is designed to showcase fundamental front-end development skills through a clean, responsive, and visually appealing layout. |
+| 📌 Landing Page | [Landing Page](https://itzsohammane.github.io/LandingPage/) | Responsive Landing Page - A modern and responsive landing page built using HTML and CSS. This project demonstrates clean layout design, responsive structure, and user-friendly interface suitable for product or service websites. |
+| 🧮 Calculator | [Simple Calculator](https://itzsohammane.github.io/Calculator) | Simple Calculator - A lightweight and user-friendly calculator application built using HTML, CSS, and JavaScript. This project demonstrates core front-end development skills by implementing basic arithmetic operations with an intuitive and responsive interface. |
+| 🧮 Advanced Calculator | [Advanced Calculator](https://itzsohammane.github.io/Advanced-Calculator) | Advanced Calculator - A modern, feature-rich calculator built using HTML, CSS, and JavaScript, designed to deliver fast, accurate, and seamless mathematical operations directly in the browser. This project combines clean UI design with powerful functionality. |
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
