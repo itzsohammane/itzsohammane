@@ -14,7 +14,7 @@
 
 # Projects:
 
-| Project | Link | Description |
+| Project |	Webpage Link | Description |
 |---------|------|-------------|
 | 🌐 MyPortfolio | [My Portfolio](https://github.com/itzsohammane/MyPortfolio/MyPortfolio.html) | Personal Profile Webpage - A simple yet well-structured personal profile webpage built using HTML and CSS. It is designed to showcase fundamental front-end development skills through a clean, responsive, and visually appealing layout. |
 | 📌 Landing Page | [Landing Page](https://itzsohammane.github.io/LandingPage/) | Responsive Landing Page - A modern and responsive landing page built using HTML and CSS. This project demonstrates clean layout design, responsive structure, and user-friendly interface suitable for product or service websites. |
